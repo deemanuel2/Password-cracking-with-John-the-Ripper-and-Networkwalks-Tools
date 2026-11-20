@@ -22,7 +22,6 @@ Loaded the hash into Johnny and ran the attack. The password was recovered.
 Opened the PDF with the recovered password and confirmed it opened successfully /
 confirmed the captured flag.
 
-![](https://github.com/deemanuel2/Password-cracking-with-John-the-Ripper-and-Networkwalks-Tools/blob/7a7daac11c7d89718ce3ffc35bbb90ce535ac964/cracked_pdf_output.png)
-
+![](https://github.com/deemanuel2/Password-cracking-with-John-the-Ripper-and-Networkwalks-Tools/blob/67acdda5196e404b4df64615519436fd858069b5/cracked_pdf.png)
 ## Result
 Password for `My Locked PDF1.pdf` successfully recovered using John the Ripper / Johnny.
