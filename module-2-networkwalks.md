@@ -19,9 +19,8 @@ using the tool's built-in wordlist.
 Opened the PDF with the recovered password and confirmed it opened successfully /
 confirmed the captured flag.
 
-**[Screenshot: PDF opened with recovered password]**
+![](https://github.com/deemanuel2/Password-cracking-with-John-the-Ripper-and-Networkwalks-Tools/blob/993f4360155b38bec4bb06dbdf12b39034a90974/cracked_pdf_output.png)
 
 ## Result
 Password for `My Locked PDF1.pdf` successfully recovered using the Networkwalks
-Hash Calculator and Password Cracker, confirming the same outcome as Module 1 via a
-browser-only workflow.
+Hash Calculator and Password Cracker, confirming the same outcome as Module 1.
