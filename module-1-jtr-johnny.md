@@ -16,10 +16,7 @@ Uploaded the locked PDF to an online PDF hash extractor to generate the `$pdf$..
 ## Step 3: Crack the password
 Loaded the hash into Johnny and ran the attack. The password was recovered.
 
-**[Screenshot: Johnny's Passwords tab showing the cracked password]**
-
-> Note: Password value omitted from this write-up. See repo disclaimer — this is
-> documented as a process, not as a credential dump.
+![](https://github.com/deemanuel2/Password-cracking-with-John-the-Ripper-and-Networkwalks-Tools/blob/ca93e271f67b30392fb9b498895eca57b2ebb8d3/Screenshot%202026-11-19%20152228.png)
 
 ## Step 4: Confirm the result
 Opened the PDF with the recovered password and confirmed it opened successfully /
