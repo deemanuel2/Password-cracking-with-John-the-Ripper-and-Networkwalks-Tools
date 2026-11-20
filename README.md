@@ -23,4 +23,14 @@ browser-based cracking tool built by Networkwalks.
 - [x] Module 1: Cracked `My Locked PDF1.pdf` using John the Ripper (CLI) and Johnny (GUI)
 - [x] Module 2: Cracked `My Locked PDF1.pdf` using Networkwalks' online Hash Calculator + Password Cracker
 
-## Repo Structure
+## Key Takeaway
+Both exercises recovered the password from a protected PDF within seconds using a
+basic dictionary attack. This confirms a point every security team should
+internalize: a short or common password offers no real protection against even
+entry-level cracking tools. Strong, unique passwords and proper file encryption
+remain the baseline defense against this kind of attack, not the exception.
+
+## Disclaimer
+This project was carried out in a controlled training environment using a file
+provided for educational purposes. The techniques shown here should only be applied
+to systems and files you own or have explicit written authorization to test.
