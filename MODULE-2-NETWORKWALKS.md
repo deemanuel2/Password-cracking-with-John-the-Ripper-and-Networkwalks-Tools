@@ -1,8 +1,9 @@
 # Module 2: Password Cracking with Networkwalks Tools
 
 ## Objective
-Recover the password of another locked PDF (`My Locked PDF1.pdf`) using Networkwalks'
-browser-based Hash Calculator and Password Cracker tools, with no local install required.
+Recover the password of a second locked PDF (`My Locked PDF1 For NW Tools lab WK3-PM2.pdf`)
+using Networkwalks' browser-based Hash Calculator and Password Cracker tools, with no
+local install required.
 
 ## Step 1: Extract the hash
 Uploaded the locked PDF to the Networkwalks Hash Calculator to generate the `$pdf$...` hash.
@@ -22,5 +23,5 @@ confirmed the captured flag.
 ![](https://github.com/deemanuel2/Password-cracking-with-John-the-Ripper-and-Networkwalks-Tools/blob/993f4360155b38bec4bb06dbdf12b39034a90974/cracked_pdf_output.png)
 
 ## Result
-Password for `My Locked PDF1.pdf` successfully recovered using the Networkwalks
-Hash Calculator and Password Cracker, confirming the same outcome as Module 1.
+Password for `My Locked PDF1 For NW Tools lab WK3-PM2.pdf` successfully recovered
+using the Networkwalks Hash Calculator and Password Cracker.
