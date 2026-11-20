@@ -7,7 +7,7 @@ browser-based Hash Calculator and Password Cracker tools, with no local install 
 ## Step 1: Extract the hash
 Uploaded the locked PDF to the Networkwalks Hash Calculator to generate the `$pdf$...` hash.
 
-**[Screenshot: Networkwalks Hash Calculator showing the extracted hash]**
+![](https://github.com/deemanuel2/Password-cracking-with-John-the-Ripper-and-Networkwalks-Tools/blob/4bcdaac143da070eae9f1dd176436f9c9e8b07c0/hash_value_2.png)
 
 ## Step 2: Run the Password Cracker
 Pasted the hash into the Networkwalks Password Cracker and ran the dictionary attack
