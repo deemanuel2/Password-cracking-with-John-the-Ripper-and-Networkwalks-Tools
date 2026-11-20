@@ -13,9 +13,7 @@ Uploaded the locked PDF to the Networkwalks Hash Calculator to generate the `$pd
 Pasted the hash into the Networkwalks Password Cracker and ran the dictionary attack
 using the tool's built-in wordlist.
 
-**[Screenshot: Networkwalks Password Cracker showing the password cracked successfully]**
-
-> Note: Password value omitted from this write-up — see repo disclaimer.
+![](https://github.com/deemanuel2/Password-cracking-with-John-the-Ripper-and-Networkwalks-Tools/blob/ab2d8cc565d2e358c5a0e18f570995f98af497d7/cracked_pdf_2_password.png)
 
 ## Step 3: Confirm the result
 Opened the PDF with the recovered password and confirmed it opened successfully /
